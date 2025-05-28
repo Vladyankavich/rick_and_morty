@@ -1,0 +1,19 @@
+.links {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 2rem;
+}
+
+.links h2 {
+    font-size: 3rem;
+}
+
+.links a {
+    font-size: 1.8rem;
+    margin: .5rem 0;
+}
+
+.no-origin {
+    text-align: center;
+    font-size: 3rem;
+}

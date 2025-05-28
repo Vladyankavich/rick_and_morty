@@ -1,0 +1,2 @@
+import {_apiBase, getCorrectURL, getResource, showName, showLink, showId, showDisplayName} from "./ram-service";
+export {_apiBase, getCorrectURL, getResource, showName, showLink, showId, showDisplayName};
